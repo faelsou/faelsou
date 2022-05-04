@@ -1,6 +1,6 @@
 - 👋 Hello, I'm @faelsou
 - 👀 I'm interested in Technology
-- 🌱 I am currently learning front end development
+- 🌱 I am currently learning front end development and Devops, SRE
 - 💞️ I'm looking to collaborate on ...
 - 📫 How to reach me ...
 
