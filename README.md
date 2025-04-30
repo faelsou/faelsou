@@ -1,8 +1,7 @@
 - 👋 Hello, I'm @faelsou
 - 👀 I'm interested in Technology
 - 🌱 I am currently learning SRE and Devops
-- 💞️ I'm looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 faelsou/faelsou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
